@@ -6,10 +6,11 @@ Esta plantilla en LaTeX está diseñada para ayudar a los profesores de la carre
 
 Estructura de Directorios
 
-main.tex: Archivo principal donde comienza el documento. Puedes personalizar este archivo según tus necesidades.
-recursos/: Carpeta que contiene los archivos de secciones individuales del documento. Agrega o elimina archivos según sea necesario.
-images/: Carpeta para almacenar imágenes y gráficos utilizados en el documento.
-
+<ul>
+<li>main.tex: Archivo principal donde comienza el documento. Puedes personalizar este archivo según tus necesidades.</li>
+<li>recursos/: Carpeta que contiene los archivos de secciones individuales del documento. Agrega o elimina archivos según sea necesario.</li>
+<li>images/: Carpeta para almacenar imágenes y gráficos utilizados en el documento.</li>
+</ul>
 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias de mejora, no dudes en abrir un problema o enviar una solicitud de extracción.
